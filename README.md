@@ -1,3 +1,5 @@
+**NOTE the single .ino file can be used to flash both ESP32s! Modify the MAC address values for each respective .ino file to that of the walkie talkie that is desired to be paired**
+
 ESP-NOW Based Walkie Talkies
 By Fabio Salgado
 
